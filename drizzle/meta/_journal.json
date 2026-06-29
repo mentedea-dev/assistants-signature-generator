@@ -8,6 +8,13 @@
       "when": 1777903676979,
       "tag": "0000_silly_the_twelve",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1751180000000,
+      "tag": "0001_news_articles",
+      "breakpoints": true
     }
   ]
 }
